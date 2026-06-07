@@ -75,4 +75,4 @@ pip install numpy pandas yfinance cvxpy tensornetwork quimb matplotlib plotly
 
 ### License
 
-MIT License © 2026
+MIT License © 2026 Dileesha Perera
