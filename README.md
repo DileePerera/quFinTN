@@ -9,7 +9,7 @@
 
 ## Overview
 
-QuFinTN is a **finance-first** library that implements quantum-inspired tensor network methods for portfolio optimization. It is inspired by the seminal paper:
+QuFinTN is a **finance** library that implements quantum-inspired tensor network methods for portfolio optimization. It is inspired by the seminal paper:
 
 > *Dynamic Portfolio Optimization with Real Datasets Using Quantum Processors and Quantum-Inspired Tensor Networks* (Mugel et al., 2022, arXiv:2007.00017)
 
