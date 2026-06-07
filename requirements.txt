@@ -1,0 +1,9 @@
+numpy
+pandas
+yfinance
+scipy
+cvxpy
+matplotlib
+tensornetwork
+quimb
+plotly
